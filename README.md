@@ -1,4 +1,4 @@
-# MaxiClock
+# MaxiClock_by_platelayer
 4 digit 7-segment MaxiClock driven by ESP8266
 
 Created by Svein-Martin Holt, www.platelayer.com, february 2024
