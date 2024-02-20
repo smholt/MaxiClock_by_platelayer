@@ -13,6 +13,6 @@ My cults3d page: https://cults3d.com/en/users/smholt/3d-models
 
 Main file: MaxiClock_by_platelayer.ino
 
-The zipfile MP3_MaxiClock.zip contains the MP3 files for the different sound, a bell and a bird. Save alle files in a MP3 forlder on the SD-card.
+The zipfile MP3_MaxiClock.zip contains the MP3 files for the different sound, a bell and a bird. Save all files in a MP3 folder on the SD-card.
 
 The project is still under development.
